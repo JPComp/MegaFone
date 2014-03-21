@@ -1,0 +1,7 @@
+name: MegaFone
+version: 1.1.0 Release
+main: br.AtomGamers.MFE.MegaFone
+commands:
+   megafone:
+     description: Comando do Plugin.
+     aliases: [anunciar, mf, announce, ad]
